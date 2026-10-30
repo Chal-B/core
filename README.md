@@ -74,6 +74,7 @@ Une erreur dans les données ? Ouvrez une issue **Correction de données** en ci
 
 ## Contribuer
 
+
 Les contributions sont bienvenues, quel que soit votre niveau. Commencez par [CONTRIBUTING.md](CONTRIBUTING.md) puis choisissez une issue étiquetée `good first issue`.
 
 ## Licences
